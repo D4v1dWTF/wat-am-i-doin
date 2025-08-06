@@ -1,0 +1,33 @@
+wat am i doin - Setup Guide
+=====================================
+
+🎯 QUICK START:
+1. Double-click "StartDiscordStatus.bat"
+2. Follow the setup instructions
+3. Start using!
+
+📋 FIRST TIME SETUP:
+When you first run the app, you'll need to create a Discord application:
+
+1. Go to: https://discord.com/developers/applications
+2. Click "New Application"
+3. Name it anything (e.g., "My Status Editor")
+4. Copy the "Application ID" number
+5. Paste it when the app asks for it
+
+That's it! The app will remember your settings.
+
+🔧 REQUIREMENTS:
+- Windows 10/11
+- Discord desktop app running
+- Internet connection
+
+💡 TIPS:
+- Make sure Discord is running before using the app
+- You can save frequently used statuses for quick access
+- Double-click saved statuses to use them instantly
+
+❓ NEED HELP?
+Check the README.md file for detailed instructions and troubleshooting.
+
+Enjoy customizing your Discord status! 🎉 
